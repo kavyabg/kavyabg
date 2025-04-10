@@ -1,92 +1,94 @@
 <h1 align="center">Hi 👋, I'm Kavya B G</h1>
+<h3 align="center">Full Stack Developer | Svelte | React | NodeJS | MongoDB | PocketBase</h3>
+
 <p align="center">
-  <strong>Full Stack Developer | Svelte | React | NodeJS | MongoDB | PocketBase</strong><br/>
-  <img src="https://img.shields.io/badge/Location-Bengaluru-blue?style=flat"/> 
-  <img src="https://img.shields.io/badge/Experience-2 years-success?style=flat"/>
+  <a href="mailto:kavyashetty109@gmail.com"><img src="https://img.shields.io/badge/Email-kavyashetty109@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/kavyabg"><img src="https://img.shields.io/badge/GitHub-kavyabg-181717?style=flat&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/kavya-bg"><img src="https://img.shields.io/badge/LinkedIn-Kavya_BG-0077B5?style=flat&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Location-Bengaluru-orange?style=flat&logo=google-maps" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 💡 About Me
 
-🚀 I'm a passionate Full Stack Developer with 2 years of hands-on experience building responsive, dynamic, and scalable web applications.  
-💡 I specialize in **SvelteKit**, **React.js**, **Node.js**, and **MongoDB**, with a strong knack for UI/UX and efficient backend architecture.  
-🌱 Currently diving deeper into AWS, PocketBase, and performance optimizations.  
-🤝 Always excited to collaborate on open-source and real-world impactful products!
-
----
-
-### 🔧 Tech Stack
-
-#### 💻 Languages & Backend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js)
-
-#### 🎨 Frontend Frameworks & Styling
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Melt UI](https://img.shields.io/badge/-Melt%20UI-blueviolet?style=flat)
-
-#### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql)
-![PocketBase](https://img.shields.io/badge/-PocketBase-343a40?style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook)
+🔭 I'm a Full Stack Developer with **2 years of experience** building modern web applications  
+⚡ Proficient in **SvelteKit**, **React**, **Node.js**, **MongoDB**, and **PocketBase**  
+📦 Skilled in building secure, scalable applications with dynamic UIs and efficient APIs  
+🛠️ Passionate about clean code, performance, and great user experiences  
+🌱 Constant learner — currently exploring **AWS** and **DevOps** practices
 
 ---
 
-### 🚀 Projects
+### 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="50" height="50"/>
+</p>
+
+---
+
+### 🛠️ Projects
 
 #### 🔹 [Parts Keys](https://beta.partskeys.com/)
-> Electronic Components Distributor Application  
-🔑 LinkedIn & Google OAuth, OTP Login with Lucia Authentication  
-📦 Search with Debouncing | React + Tailwind CSS  
-💾 Data sync with localStorage and MongoDB
+- 🔐 Integrated LinkedIn & Google OAuth, OTP login with Lucia Authentication  
+- 🔍 Implemented Search with Debouncing  
+- ⚙️ React + Tailwind UI + MongoDB | Dynamic and scalable
 
 #### 🔹 [Chemikart](https://chemikart.partskeys.com/)
-> Chemical Products Distributor Application  
-🛒 Add to Cart & Favorites with Offline Sync  
-📱 Tailwind CSS + Melt UI for stunning responsive design  
-⚡ Optimized API calls and performance
+- 🧪 B2B Chemical Distributor Platform  
+- 🛒 Local & DB-based cart and wishlist with sync  
+- 🎨 Built using TailwindCSS + Melt UI + React Router
 
-#### 🔹 [CIO Review – Enterprise Magazine](https://www.cioreview.com/)
-> Maintained magazine platform using Svelte + SQLite + PocketBase  
-🧠 Performance optimizations, caching, and secure architecture
-
----
-
-### 🏆 Certifications
-
-- 🎓 NodeJS API Masterclass with Express and MongoDB – Udemy  
-- ☁️ Introduction to AWS – Udemy  
-- ⚙️ TypeScript for Professionals – Udemy  
-- 🌐 The Complete JavaScript – Udemy  
-- 🔥 React: The Complete Guide – Simplilearn
+#### 🔹 [CIO Review Magazine Platform](https://www.cioreview.com/)
+- 📰 Enterprise Tech Magazine portal  
+- 💾 Tech: JavaScript, Svelte, SQLite, PocketBase  
+- ⚡ Performance-optimized with caching, secure coding
 
 ---
 
 ### 🎓 Education
 
 **🎓 Bachelor of Engineering in Computer Science**  
-BNM Institute of Technology – VTU (2019–2022) – CGPA: 7.9
+BNM Institute of Technology – VTU (2019–2022) | CGPA: 7.9  
 
-**📘 Diploma in Computer Science** – DTE (2016–2019) – 89.20%  
-**📚 High School – KSSEB** (2015–2016) – 81.44%
+**💻 Diploma in Computer Science** – DTE (2016–2019) | 89.2%  
 
----
-
-### 📬 Let's Connect
-
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:kavyashetty109@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kavya-bg)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/kavyabg)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=githubpages)](https://kavyabg.github.io)
+**📘 High School – KSSEB** (2015–2016) | 81.4%
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! Let’s build something amazing together. ✨</p>
+### 📜 Certifications
+
+- 🛠 NodeJS API Masterclass (Udemy)  
+- ☁️ Introduction to AWS (Udemy)  
+- 🧩 TypeScript for Professionals (Udemy)  
+- 🌐 The Complete JavaScript (Udemy)  
+- ⚛️ React: The Complete Guide (Simplilearn)
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:kavyashetty109@gmail.com"><img src="https://img.shields.io/badge/Gmail-kavyashetty109@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kavya-bg"><img src="https://img.shields.io/badge/LinkedIn-Kavya_BG-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/kavyabg"><img src="https://img.shields.io/badge/GitHub-kavyabg-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<p align="center">✨ Thank you for stopping by! Let's build something amazing together. ✨</p>

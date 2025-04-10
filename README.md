@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavya B G</h1>
-<h3 align="center">Full Stack Developer | Svelte | React | NodeJS | MongoDB | PocketBase</h3>
+<h3 align="center">Full Stack Developer | ReactJS | NodeJS | MongoDB | PocketBase | Svelte</h3>
 
 <p align="center">
   <a href="mailto:kavyashetty109@gmail.com"><img src="https://img.shields.io/badge/Email-kavyashetty109@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Location-Bengaluru-orange?style=flat&logo=google-maps" />
 </p>
 
----
 
 ### 💡 About Me
 
@@ -38,6 +37,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="50" height="50"/>
 </p>
+
+---
+
+### 💼 Work Experience
+
+**Full Stack Developer – SR Integrated Circuit Pvt Ltd**  
+📅 Sep 2024 – Present  
+- Built dynamic UIs with Svelte, React, Melt UI  
+- Integrated secure OAuth & OTP login using Lucia Auth  
+- Optimized APIs with NodeJS & MongoDB  
+- Improved UX with local storage and debouncing techniques
+
+**Junior Software Engineer – Silicon Media Technologies**  
+📅 May 2023 – May 2024  
+- Developed responsive UIs with Svelte & Tailwind  
+- Configured Storybook for scalable component testing  
+- Backend development using NodeJS and MongoDB
+
+**Programmer Analyst Intern – Cognizant**  
+📅 Sep 2022 – Feb 2023  
+- Built UI with JavaScript, Bootstrap, jQuery  
+- Developed REST APIs with PHP and MySQL
 
 ---
 
@@ -89,6 +110,5 @@ BNM Institute of Technology – VTU (2019–2022) | CGPA: 7.9
   <a href="https://github.com/kavyabg"><img src="https://img.shields.io/badge/GitHub-kavyabg-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
----
 
-<p align="center">✨ Thank you for stopping by! Let's build something amazing together. ✨</p>
+<p align="center">✨ Thanks for visiting! Let's connect, collaborate, and create something extraordinary 🚀</p>

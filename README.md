@@ -57,8 +57,8 @@
 
 **Programmer Analyst Intern – Cognizant**  
 📅 Sep 2022 – Feb 2023  
-- Built UI with JavaScript, Bootstrap, jQuery  
-- Developed REST APIs with PHP and MySQL
+- Built UI with React, JavaScript, Typescript, Bootstrap  
+- Developed REST APIs with NodeJS and MongoDB
 
 ---
 

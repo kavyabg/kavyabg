@@ -82,11 +82,7 @@
 ### 🎓 Education
 
 **🎓 Bachelor of Engineering in Computer Science**  
-BNM Institute of Technology – VTU (2019–2022) | CGPA: 7.9  
-
-**💻 Diploma in Computer Science** – DTE (2016–2019) | 89.2%  
-
-**📘 High School – KSSEB** (2015–2016) | 81.4%
+BNM Institute of Technology – VTU (2019–2022) | CGPA: 7.92  
 
 ---
 

@@ -11,7 +11,7 @@
 
 ### 💡 About Me
 
-🔭 I'm a Full Stack Developer with **2 years of experience** building modern web applications  
+🔭 I'm a Full Stack Developer with **2+ years of experience** building modern web applications  
 ⚡ Proficient in **React**, **NodeJS**, **MongoDB**, **SvelteKit** and **PocketBase**  
 📦 Skilled in building secure, scalable applications with dynamic UIs and efficient APIs  
 🛠️ Passionate about clean code, performance, and great user experiences  

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavya B G</h1>
-<h3 align="center">Full Stack Developer | ReactJS | NodeJS | MongoDB | PocketBase | Svelte</h3>
+<h3 align="center">Full Stack Developer | ReactJS | NodeJS | MongoDB | Express | PocketBase | Svelte</h3>
 
 <p align="center">
   <a href="mailto:kavyashetty109@gmail.com"><img src="https://img.shields.io/badge/Email-kavyashetty109@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>

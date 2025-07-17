@@ -66,19 +66,26 @@
 ### 🛠️ Projects
 
 #### 🔹 [Parts Keys](https://partskeys.com/)
-- 🔐 Integrated LinkedIn & Google OAuth, OTP login with Lucia Authentication  
-- 🔍 Implemented Search with Debouncing  
-- ⚙️ React + Tailwind UI + MongoDB | Dynamic and scalable
+- 🔩 **Electronic Components Distributor Application**  
+- 🧭 Handled navigation and real-time UI updates with **React Router** and **Hooks**  
+- 🔐 Implemented advanced auth with **Redux**, **Lucia Authentication**, **JWT**, **Google/LinkedIn OAuth 2.0**, and **OTP login**  
+- 🔍 Built a **search filter with debouncing**, backend filtering, and pagination to reduce API calls and enhance performance  
+- ⚙️ **Tech Stack**: React.js, Tailwind CSS, MongoDB, Node.js
 
 #### 🔹 [Chemikart](https://chemikart.com/)
-- 🧪 B2B Chemical Distributor Platform  
-- 🛒 Local & DB-based cart and wishlist with sync  
-- 🎨 Built using TailwindCSS + Melt UI + React Router
+- 🧪 **B2B Chemical Products Distributor Platform**  
+- 🎨 Created a seamless, responsive UI using **React**, **Tailwind CSS**, and **Melt UI**  
+- 📄 Built a **dynamic product details page** with specs, similar/recommended items, and comparisons  
+- ⚡ Optimized **API performance** using pagination and reduced load times  
+- 🛒 Developed **Add to Cart & Wishlist** using **Redux**, syncing data between **localStorage & MongoDB** on login  
+- 🔗 **Tech Stack**: React.js, Tailwind CSS, Melt UI, MongoDB, Node.js
 
 #### 🔹 [CIO Review Magazine Platform](https://www.cioreview.com/)
-- 📰 Enterprise Tech Magazine portal  
-- 💾 Tech: JavaScript, Svelte, SQLite, PocketBase  
-- ⚡ Performance-optimized with caching, secure coding
+- 📰 **Enterprise Technology Magazine Portal (U.S. Market)**  
+- 🔧 Maintained and enhanced the platform using **JavaScript**, **Svelte**, **ReactJS**, **NodeJS**, **MongoDB**  
+- ⚡ Applied **caching mechanisms** to improve page load times and reduce server load  
+- 🔒 Followed **secure coding standards** to ensure data privacy and integrity  
+- 🔗 **Tech Stack**: Svelte.js, React.js, Node.js, MongoDB, PocketBase, SQLite
 
 ---
 

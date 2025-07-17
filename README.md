@@ -41,33 +41,36 @@
 ### 💼 Work Experience
 
 **Full Stack Developer – SR Integrated Circuit Pvt Ltd**  
-📅 Sep 2024 – Present  
-- Built dynamic UIs with Svelte, React, Melt UI  
-- Integrated secure OAuth & OTP login using Lucia Auth  
-- Optimized APIs with NodeJS & MongoDB  
-- Improved UX with local storage and debouncing techniques
+📅 July 2024 – Present  
+- Built responsive UIs using React, Tailwind CSS, and Melt UI. 
+- Implemented secure auth (Google/LinkedIn OAuth 2.0, OTP login) with JWT & Lucia.  
+- Integrated Razorpay for payments gateway with webhook handling.
+- Optimized NodeJS + MongoDB APIs for performance and fast data access.
+- Set up CI/CD via GitHub and Render with custom domain and HTTPS.
 
 **Junior Software Engineer – Silicon Media Technologies**  
 📅 May 2023 – May 2024  
-- Developed responsive UIs with Svelte & Tailwind  
-- Configured Storybook for scalable component testing  
-- Backend development using NodeJS and MongoDB
+- Developed responsive UIs with JavaScript, Svelte, React, and Tailwind CSS.
+- Integrated Melt UI for design consistency and enhanced usability.
+- Optimized backend with NodeJS & MongoDB for efficient data management.
+- Configured Storybook for component testing and maintainability.  
 
 **Programmer Analyst Intern – Cognizant**  
 📅 Sep 2022 – Feb 2023  
 - Built UI with React, JavaScript, Typescript, Bootstrap  
 - Developed REST APIs with NodeJS and MongoDB
+- Maintained high-quality Android/iOS apps, adhering to design principles.
 
 ---
 
 ### 🛠️ Projects
 
-#### 🔹 [Parts Keys](https://beta.partskeys.com/)
+#### 🔹 [Parts Keys](https://partskeys.com/)
 - 🔐 Integrated LinkedIn & Google OAuth, OTP login with Lucia Authentication  
 - 🔍 Implemented Search with Debouncing  
 - ⚙️ React + Tailwind UI + MongoDB | Dynamic and scalable
 
-#### 🔹 [Chemikart](https://chemikart.partskeys.com/)
+#### 🔹 [Chemikart](https://chemikart.com/)
 - 🧪 B2B Chemical Distributor Platform  
 - 🛒 Local & DB-based cart and wishlist with sync  
 - 🎨 Built using TailwindCSS + Melt UI + React Router
